@@ -13,7 +13,7 @@ objects).
  - [Builder], how a composite object gets created
  - [Factory Method], subclass of object that is instantiated
  - [Prototype], todo
- - [Singleton], todo 
+ - [Singleton], the sole instance of a class 
 - Structural Patterns
  - [Adapter], todo
  - [Bridge], todo 
