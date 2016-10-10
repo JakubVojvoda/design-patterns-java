@@ -15,7 +15,7 @@ objects).
  - [Prototype], todo
  - [Singleton], the sole instance of a class 
 - Structural Patterns
- - [Adapter], todo
+ - [Adapter], interface to an object
  - [Bridge], todo 
  - [Composite], todo
  - [Decorator], todo
