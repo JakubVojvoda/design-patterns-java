@@ -20,8 +20,8 @@ objects).
  - [Composite], structure and composition of an object
  - [Decorator], responsibilities of an object without subclassing
  - [Façade], interface to a subsystem
- - [Flyweight], todo
- - [Proxy], todo
+ - [Flyweight], storage costs of objects
+ - [Proxy], how an object is accessed (its location)
 - Behavioral Patterns
  - [Chain of Responsibility], todo
  - [Command], todo
