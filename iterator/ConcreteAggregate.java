@@ -28,11 +28,11 @@ public class ConcreteAggregate implements Aggregate {
     return new ConcreteIterator(this);
   }
   
-  int size() {
+  public int size() {
     return list.length;
   }
   
-  int at(int index) {
+  public int at(int index) {
     return list[index];
   }
   // ...

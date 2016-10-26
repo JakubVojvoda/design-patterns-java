@@ -17,9 +17,9 @@ package app;
  */
 public interface Iterator {
     
-  void first();
-  void next();
-  boolean isDone();
-  int currentItem();
+  public void first();
+  public void next();
+  public boolean isDone();
+  public int currentItem();
   // ...
 }
