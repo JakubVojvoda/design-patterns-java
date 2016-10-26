@@ -18,11 +18,11 @@ public class Invoker {
 
   private Command command;
   
-  void set(Command command) {
+  public void set(Command command) {
     this.command = command;
   }
   
-  void confirm() {
+  public void confirm() {
     if (this.command != null) {
       this.command.execute();
     }
