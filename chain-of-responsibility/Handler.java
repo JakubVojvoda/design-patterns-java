@@ -19,11 +19,11 @@ public abstract class Handler {
     
   private Handler successor;
   
-  void setHandler(Handler handler) {
+  public void setHandler(Handler handler) {
     this.successor = handler;
   }
   
-  void handleRequest() {
+  public void handleRequest() {
     if (this.successor != null) {
       this.successor.handleRequest();
     }

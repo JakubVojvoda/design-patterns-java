@@ -22,7 +22,7 @@ public class ConcreteHandler1 extends Handler {
   }
   
   @Override
-  void handleRequest() {
+  public void handleRequest() {
     if (this.canHandle()) {
       System.out.println("Handled by Concrete Handler 1");
     } else {
