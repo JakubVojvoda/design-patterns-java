@@ -29,7 +29,7 @@ objects).
  - [Iterator], how an aggregate's elements are accessed
  - [Mediator], how and which objects interact with each other
  - [Memento], todo 
- - [Observer], todo
+ - [Observer], how the dependent objects stay up to date
  - [State], todo
  - [Strategy], todo
  - [Template Method], todo
