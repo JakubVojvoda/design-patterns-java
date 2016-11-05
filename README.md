@@ -30,7 +30,7 @@ objects).
  - [Mediator], how and which objects interact with each other
  - [Memento], todo 
  - [Observer], how the dependent objects stay up to date
- - [State], todo
+ - [State], states of an object
  - [Strategy], todo
  - [Template Method], todo
  - [Visitor], todo
