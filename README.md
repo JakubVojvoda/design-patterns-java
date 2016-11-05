@@ -31,7 +31,7 @@ objects).
  - [Memento], todo 
  - [Observer], how the dependent objects stay up to date
  - [State], states of an object
- - [Strategy], todo
+ - [Strategy], an algorithm
  - [Template Method], todo
  - [Visitor], todo
 
