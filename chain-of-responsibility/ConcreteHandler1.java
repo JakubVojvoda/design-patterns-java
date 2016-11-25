@@ -26,7 +26,7 @@ public class ConcreteHandler1 extends Handler {
     if (this.canHandle()) {
       System.out.println("Handled by Concrete Handler 1");
     } else {
-      System.out.println("Cannot handle by Handler 1");
+      System.out.println("Cannot be handled by Handler 1");
       super.handleRequest();
     }
   }
